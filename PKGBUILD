@@ -8,10 +8,8 @@ license=('GPL')
 depends=('sdl3')
 makedepends=("git" "cmake" "gcc")
 options=('!debug' 'strip')
-source=("git+https://github.com/Clownacy/clownmdemu-frontend.git"
-        "imgui-befix.patch")
-sha256sums=('SKIP'
-            '235dff95f2bcd74940f62c5d308224997eba07e6d2f4c297d2c04063db7d6cb4')
+source=("git+https://github.com/Clownacy/clownmdemu-frontend.git")
+sha256sums=('SKIP')
 
 pkgver() {
 	cd clownmdemu
