@@ -1,10 +1,10 @@
 <div align="center">
 
-# ClownMDEmu-AppImage 🐧
+# ClownMDEmu-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ClownMDEmu-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/ClownMDEmu-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ClownMDEmu-AppImage)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/ClownMDEmu-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ClownMDEmu-AppImage-Enhanced)](https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/Clownacy/clownmdemu-frontend/raw/master/assets/logo.png" width="128" />
@@ -12,7 +12,7 @@
 
 | Latest Stable Release | Latest Nightly Relase | Upstream URL |
 | :---: | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/ClownMDEmu-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/ClownMDEmu-AppImage/releases/tag/nightly) | [Click here](https://github.com/Clownacy/clownmdemu-frontend) |
+| [Click here](https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/Clownacy/clownmdemu-frontend) |
 
 </div>
 
